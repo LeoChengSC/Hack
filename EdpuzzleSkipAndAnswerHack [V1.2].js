@@ -193,7 +193,7 @@ function openPopup(assignment) {
     <p style="font-size: 12px" id="loading_text"></p>
   </div>
   <hr>
-  <p style="font-size: 12px">Made by: <a target="_blank" href="https://github.com/LeoChengSC">LeoChengSC</a> on Github | Website: <a target="_blank" href="https://edpuzzle.hs.vc">edpuzzle.hs.vc</a> | Source code: <a target="_blank" href="https://github.com/LeoChengSC/Hack/blob/main/EdpuzzleHack.js">LeoChengSC/EdpuzzleHack</a></p>
+  <p style="font-size: 12px">Made by: <a target="_blank" href="https://github.com/LeoChengSC">LeoChengSC</a> on Github | Website: <a target="_blank" href="https://edpuzzle.hs.vc">edpuzzle.hs.vc</a> | Source code: <a target="_blank" href="https://github.com/LeoChengSC/Hack/tree/main"</a></p>
   popup = window.open("about:blank", "", "width=600, height=400");
   popup.document.write(base_html);
 
