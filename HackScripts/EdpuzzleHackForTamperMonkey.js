@@ -1,0 +1,1 @@
+if (window.location.hostname == "edpuzzle.com") {var script = document.body.appendChild(document.createElement("script")); script.src="https://cdn.jsdelivr.net/gh/LeoChengSC/Hack@main/HackScripts/EdpuzzleSkipAndAnswerHack%20%5BV1.5%5D.js"; script.remove();} else {alert("Video Not Detected :(")}
