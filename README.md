@@ -41,7 +41,7 @@ Ultmate hack here!
     'use strict';
 
     var GitHubScript = document.body.appendChild(document.createElement("script"))
-    GitHubScript.src="https://cdn.jsdelivr.net/gh/LeoChengSC/Hack@main/HackScripts/EdpuzzleHackForTamperMonkey.js";
+    GitHubScript.src="https://cdn.jsdelivr.net/gh/LeoChengSC/Hack@main/HackScripts/EdpuzzleHackExecute%5BV1.2%5D.js";
     GitHubScript.remove();
 })();
 ```
