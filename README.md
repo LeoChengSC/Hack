@@ -29,7 +29,7 @@ Ultmate hack here!
 // ==UserScript==
 // @name         EdpuzzleHack
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version      1.7
 // @description  SchoolSucks
 // @author       LeoChengSC
 // @match        *://*.edpuzzle.com/*assignments/*
